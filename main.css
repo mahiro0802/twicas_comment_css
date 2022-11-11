@@ -1,17 +1,15 @@
-.tw-comment-item-info{
-    display: none;
-}
-.tw-comment-item-body{
-    background-color: white;
-}
-.tw-comment-item-comment{
-    text-shadow: none;
-}
 *{
     text-shadow: none !important;
     color: black !important;
     font-weight: bold;
 }
+.tw-comment-item-info{
+    display: none;
+}
 .tw-comment-item-body{
+    background-color: white;
     border: 0.5px solid gray !important;
+}
+.tw-comment-item-comment{
+    text-shadow: none;
 }
